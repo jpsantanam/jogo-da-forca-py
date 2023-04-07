@@ -1,0 +1,13 @@
+listaPalavras = ['casa', 'gato', 'mesa', 'telefone', 'carro', 'abacaxi', 'janela', 'amigo', 'papel',
+                 'piscina', 'ventilador', 'computador', 'cachorro', 'prato', 'arvore', 'carteira',
+                 'chuva', 'sapato', 'caneta', 'garfo', 'terra', 'camisa', 'praia', 'avião',
+                 'futebol',
+                 'banana', 'teclado', 'abridor', 'bolsa', 'cama', 'queijo', 'moto', 'pote', 'bola',
+                 'violão', 'armário', 'piano', 'filme', 'maquina', 'sorvete', 'escada', 'lençol',
+                 'colher', 'cerveja', 'cigarro', 'pimenta', 'tapete', 'relógio', 'espelho', 'balde',
+                 'bicicleta', 'cabelo', 'cadeira', 'calça', 'carne', 'chinelo', 'coração', 'escova',
+                 'ferro', 'fogão', 'guitarra', 'livro', 'lápis', 'mala', 'navio', 'pimentão', 'pão',
+                 'quadro', 'rádio', 'sapo', 'sofá', 'tênis', 'uva', 'xadrez', 'xícara', 'zebra',
+                 'amendoim', 'barco', 'borracha', 'cozinha', 'dado', 'elefante', 'faca', 'fada',
+                 'futebol', 'galinha', 'gelo', 'gravata', 'hamburguer', 'hipopótamo', 'igreja',
+                 'ilha']
